@@ -1,0 +1,16 @@
+{
+    "name": "append/composer-learning",
+    "description": "Open source basic",
+    "autoload": {
+        "psr-4": {
+            "Append\\ComposerLearning\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Append",
+            "email": "32379148+fansheng0594@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
