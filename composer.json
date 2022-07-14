@@ -12,5 +12,10 @@
             "email": "32379148+fansheng0594@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
 }
