@@ -14,7 +14,9 @@
         }
     ],
     "require": {
-        "illuminate/http": "^9.19"
+    },
+    "replace": {
+        "illuminate/http": "self.version"
     },
     "extra": {
         "branch-alias": {
