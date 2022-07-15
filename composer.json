@@ -1,6 +1,7 @@
 {
     "name": "append/composer-learning",
     "description": "Open source basic",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Append\\ComposerLearning\\": "src/"
@@ -12,7 +13,9 @@
             "email": "32379148+fansheng0594@users.noreply.github.com"
         }
     ],
-    "require": {},
+    "require": {
+        "illuminate/http": "^9.19"
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "1.x-dev"
