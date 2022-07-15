@@ -16,7 +16,6 @@
     "require": {
     },
     "replace": {
-        "illuminate/http": "self.version"
     },
     "extra": {
         "branch-alias": {
